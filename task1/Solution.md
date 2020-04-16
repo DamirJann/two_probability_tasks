@@ -4,9 +4,10 @@
 
 Решение: Нужно промоделировать 4 выстрела. Для этого воспользуемся фунцкией random(), которая выдаёт число от [0,1]. 
          Функция boolean doesIvanovHit() - возвращает результат выстрела Иванова с данной в условиях вероятностью.
-  def doesIvanovHit():
-      import random
-      random.seed()
-      return (random.random() < 2/3.0)
+        
+def doesIvanovHit():
+import random
+random.seed()
+return (random.random() < 2/3.0)
 
          
