@@ -6,8 +6,8 @@
          Функция boolean doesIvanovHit() - возвращает результат выстрела Иванова с данной в условиях вероятностью.
         
          def doesIvanovHit():
-         import random
-         random.seed()
-         return (random.random() < 2/3.0)
+             import random
+             random.seed()
+             return (random.random() < 2/3.0)
 
          
