@@ -32,3 +32,5 @@
 
 ![Alt Text](
 https://github.com/DamirJann/two_probability_tasks/blob/master/task1/gifs/plot.gif)
+
+Исходный код: https://github.com/DamirJann/two_probability_tasks/tree/master/task1
